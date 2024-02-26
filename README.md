@@ -1,6 +1,6 @@
-# RESUME
+RESUME
 
-REINALDO SAPUTRA
+# REINALDO SAPUTRA
 
 # Introduction
 
@@ -35,7 +35,4 @@ Business Accounting (2016 - 2020)
 6. Market research
 7. Budgeting
 
-# Textbook
-
-Downey, A. (2014). [Think Python. How to Think Like a Computer Scientist](https://pythonbooks.org/think-python-how-to-think-like-a-computer-scientist). Needham, Massachusetts: Green Tea Press. (Free PDF from the author: https://pythonbooks.org/think-python-how-to-think-like-a-computer-scientist/)
 
